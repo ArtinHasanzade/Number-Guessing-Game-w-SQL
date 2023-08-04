@@ -1,0 +1,24 @@
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\Arcade w SQL.exe
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\Arcade w SQL.deps.json
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\Arcade w SQL.runtimeconfig.json
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\Arcade w SQL.dll
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\Arcade w SQL.pdb
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.csproj.AssemblyReference.cache
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade.Form1.resources
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.csproj.GenerateResource.cache
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.AssemblyInfoInputs.cache
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.AssemblyInfo.cs
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.csproj.CoreCompileInputs.cache
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.csproj.CopyComplete
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.dll
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\refint\Arcade w SQL.dll
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.pdb
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\Arcade w SQL.genruntimeconfig.cache
+C:\Users\sahar\source\repos\NumberGuessingGameSQL\Arcade\obj\Debug\net6.0-windows\ref\Arcade w SQL.dll

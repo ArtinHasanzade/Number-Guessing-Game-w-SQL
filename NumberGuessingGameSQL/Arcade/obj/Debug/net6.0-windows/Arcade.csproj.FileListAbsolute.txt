@@ -1,0 +1,17 @@
+C:\Users\sahar\source\repos\Arcade\Arcade\bin\Debug\net6.0-windows\Arcade.exe
+C:\Users\sahar\source\repos\Arcade\Arcade\bin\Debug\net6.0-windows\Arcade.deps.json
+C:\Users\sahar\source\repos\Arcade\Arcade\bin\Debug\net6.0-windows\Arcade.runtimeconfig.json
+C:\Users\sahar\source\repos\Arcade\Arcade\bin\Debug\net6.0-windows\Arcade.dll
+C:\Users\sahar\source\repos\Arcade\Arcade\bin\Debug\net6.0-windows\Arcade.pdb
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.csproj.AssemblyReference.cache
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.Form1.resources
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.csproj.GenerateResource.cache
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.AssemblyInfoInputs.cache
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.AssemblyInfo.cs
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.csproj.CoreCompileInputs.cache
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.dll
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\refint\Arcade.dll
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.pdb
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\Arcade.genruntimeconfig.cache
+C:\Users\sahar\source\repos\Arcade\Arcade\obj\Debug\net6.0-windows\ref\Arcade.dll
